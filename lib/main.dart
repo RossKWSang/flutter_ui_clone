@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_plant_ui_clone/constants.dart';
+import 'package:flutter_plant_ui_clone/screens/home/home_screen.dart';
 
 void main() {
   runApp(MyApp());
